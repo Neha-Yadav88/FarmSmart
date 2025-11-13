@@ -1,0 +1,21 @@
+Dataset Shape: (2200, 8)
+
+Columns: ['N', 'P', 'K', 'temperature', 'humidity', 'ph', 'rainfall', 'label']
+
+Missing Values:
+N              0
+P              0
+K              0
+temperature    0
+humidity       0
+ph             0
+rainfall       0
+label          0
+dtype: int64
+
+Unique Labels:
+['rice' 'maize' 'chickpea' 'kidneybeans' 'pigeonpeas' 'mothbeans'
+ 'mungbean' 'blackgram' 'lentil' 'pomegranate' 'banana' 'mango' 'grapes'
+ 'watermelon' 'muskmelon' 'apple' 'orange' 'papaya' 'coconut' 'cotton'
+ 'jute' 'coffee']
+
